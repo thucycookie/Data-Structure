@@ -1,0 +1,1 @@
+This exercise was to implement a stack data structure (LIFO) to keep track of the last known position. A stack data strucutre is very useful for backtrack algorithm or even to check whether a word is palindrome or not. 
